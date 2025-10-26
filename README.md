@@ -67,6 +67,7 @@ I'm a **second-year Web Application Development student** with a passion for bui
 - 🎯 **React** - Building modern, interactive UIs
 - 🎯 **Python** - Backend (Django/Flask), Data Science & Automation
 - 🎯 **TypeScript** - Type-safe JavaScript development
+- 🎯 **Typst** - Modern markup for document creation
 
 ---
 
@@ -74,7 +75,6 @@ I'm a **second-year Web Application Development student** with a passion for bui
 
 <div align="center">
 
-[![Hair Salon Platform](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=tfg-peluqueria&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/tfg-peluqueria)
 [![Workshop System](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=SistemaTaller&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/SistemaTaller)
 
 </div>
