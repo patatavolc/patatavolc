@@ -60,14 +60,6 @@ I'm a **second-year Web Application Development student** with a passion for bui
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatavolc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patatavolc&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatavolc&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph"/>
-</div>
-
 ---
 
 ## 🌱 Currently Learning & 2025 Goals
@@ -80,100 +72,24 @@ I'm a **second-year Web Application Development student** with a passion for bui
 
 ## 🚀 Featured Projects
 
-### 💼 [Hair Salon Management Platform](https://github.com/patatavolc/tfg-peluqueria) 
-**Final Degree Project** | Full-stack web application based on real business requirements
+<div align="center">
 
-![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+[![Hair Salon Platform](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=tfg-peluqueria&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/tfg-peluqueria)
+[![Workshop System](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=SistemaTaller&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/SistemaTaller)
 
-A comprehensive salon management platform designed with real business requirements from a local hair salon.
+</div>
 
-**Key Features:**
-- 📅 Online appointment booking system with calendar integration
-- 👥 Complete client management and service history tracking
-- 💰 Dynamic service catalog with pricing management
-- 📊 Administrative dashboard for invoices and business analytics
-- 🎨 Modern, responsive UI built with React
-
-**Tech Stack:** React, Express.js, Node.js, PostgreSQL  
-**Architecture:** RESTful API, MVC pattern, JWT authentication
-
-🚧 **Status:** Active Development - Core features being implemented
-
----
+### 💼 [Hair Salon Management Platform](https://github.com/patatavolc/tfg-peluqueria) - Final Degree Project
+Full-stack platform with appointment booking, client management, service catalog, and admin dashboard for invoices and analytics. Based on real business requirements. | **React · Node.js · Express · PostgreSQL** | 🚧 In Progress
 
 ### 🛠️ [Workshop Management System](https://github.com/patatavolc/SistemaTaller)
-**Enterprise-level automotive workshop management system**
+Enterprise automotive management system handling clients, vehicles, appointments, inventory, employees, and service history with complete CRUD operations. | **Java · MySQL · MVC Architecture** | ✅ Complete
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-
-Complete management system for automotive workshops with comprehensive business logic.
-
-**Key Features:**
-- 👥 **Client Management** - Full CRUD operations for customer data
-- 🚗 **Vehicle Registry** - Track vehicles associated with clients
-- 📅 **Appointment System** - Schedule and manage service appointments
-- 📦 **Inventory Control** - Parts management and supplier integration
-- 👷 **Employee Management** - Staff administration and assignment
-- 📋 **Service History** - Complete service tracking and records
-- 🛒 **Order Management** - Parts ordering from suppliers
-
-**Tech Stack:** Java (Console), MySQL  
-**Architecture:** MVC pattern, DAO for database operations  
-**Challenge Overcome:** Complex database relationship management and transaction handling
-
-**Why I built it:** To understand enterprise-level application architecture and learn proper database design patterns.
-
----
-
-### 🖥️ [Restaurant Management System](https://github.com/javiifu/Hosteler-a)
-**Point of Sale system for restaurant operations** | Team Project
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Team Project](https://img.shields.io/badge/Type-Team%20Project-blue?style=flat-square)
-
-Comprehensive POS system for restaurant management with GUI interface.
-
-**My Role:** Frontend Lead & Core Logic Developer
-- Designed and implemented the complete graphical user interface
-- Developed majority of business logic and application flow
-- Collaborated on database integration (designed by teammate)
-
-**Key Features:**
-- 🍽️ Table management with visual layout
-- 📱 Digital menu with categories and pricing
-- 💳 Billing and payment processing
-- 📊 Order tracking and kitchen communication
-
-**Tech Stack:** Java, MySQL  
-**Team Size:** 2 developers  
-**My Contribution:** ~75% (Full frontend + Core logic)
-
----
+### 🖥️ [Restaurant POS System](https://github.com/javiifu/Hosteler-a)
+Point of sale system for restaurant operations with table management, digital menu, billing, and order tracking. | **Java · MySQL** | Team project - **Frontend Lead (75% contribution)** | ✅ Complete
 
 ### 🃏 [Klondike Solitaire](https://github.com/patatavolc/Solitario)
-**Console-based card game with complete Klondike rules**
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Academic](https://img.shields.io/badge/Type-Academic-lightgrey?style=flat-square)
-
-Classic Solitaire card game implementation showcasing OOP principles and game logic.
-
-**Features:**
-- ♠️ Full Klondike Solitaire rules implementation
-- 🎮 Console-based interactive gameplay
-- 🃏 Card shuffling and dealing algorithms
-- 🏆 Win condition checking (minor bug in points comparison)
-
-**Tech Stack:** Java (Console)  
-**What I learned:** Object-oriented design, algorithm implementation, game state management
-
-⚠️ **Known Issues:** Minor bug in scoring system (planned fix)
+Console-based card game implementing full Klondike rules, showcasing OOP principles and algorithm design. | **Java** | Academic project
 
 ---
 
