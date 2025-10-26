@@ -3,7 +3,6 @@
 <h3 align="center">📍 Zaragoza, Spain | 🌍 Open to Remote Opportunities | 🎓 2nd Year Web Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patatavolc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/eder-moros-59783b34b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:edermoros@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
 </p>
@@ -119,13 +118,6 @@ I use Arch as my daily driver because it teaches system fundamentals, offers ful
 
 ---
 
-<div align="center">
-
-### 💡 "Clean code is not written by following a set of rules. You know you're working on clean code when each routine you read turns out to be pretty much what you expected." - Robert C. Martin
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
