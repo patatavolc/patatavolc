@@ -100,10 +100,6 @@ Console-based card game implementing full Klondike rules, showcasing OOP princip
 🐚 Terminal: Always ready for action
 🎨 Workflow: Git-based version control, Docker for containerization
 ```
-
-**Why Arch Linux?**  
-I use Arch as my daily driver because it teaches system fundamentals, offers full control over my environment, and keeps me close to the command line - essential skills for any developer.
-
 ---
 
 ## 📫 Connect With Me
