@@ -75,7 +75,7 @@ I'm a **second-year Web Application Development student** with a passion for bui
 <div align="center">
 
 [![Workshop System](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=SistemaTaller&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/SistemaTaller)
-
+[![Workshop System](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=tfg-peluqueria&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/tfg-peluqueria)
 </div>
 
 ### 💼 [Hair Salon Management Platform](https://github.com/patatavolc/tfg-peluqueria) - Final Degree Project
