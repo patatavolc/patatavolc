@@ -18,7 +18,7 @@ I'm a **second-year Web Application Development student** with a passion for bui
 - 💼 Open to **internship opportunities** and collaborative projects
 - 🐧 Proud **Arch Linux** user (btw) - Daily driver for development
 - 💡 I believe in clean code, good architecture, and solving real problems
-- 📫 Reach me at: **edermoros@gmail.com**
+- 📫 Reach me at: **edermorosrodero@gmail.com**
 
 ---
 
