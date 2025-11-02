@@ -9,20 +9,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **second-year Web Application Development student** with a passion for building real-world solutions that solve actual problems. I specialize in **full-stack development** with a strong focus on backend architecture and database design.
 
-- 🔭 Currently working on my **Final Degree Project** - A full-stack Hair Salon Management Platform
-- 🌱 Expanding my stack: **React**, **Python**, **TypeScript**
-- 💼 Open to **internship opportunities** and collaborative projects
-- 🐧 Proud **Arch Linux** user (btw) - Daily driver for development
-- 💡 I believe in clean code, good architecture, and solving real problems
-- 📫 Reach me at: **edermorosrodero@gmail.com**
+- Currently working on my **Final Degree Project** - A full-stack Hair Salon Management Platform
+- Expanding my stack: **React**, **Python**, **TypeScript**
+- Open to **internship opportunities** and collaborative projects
+- Proud **Arch Linux** user (btw) - Daily driver for development
+- I believe in clean code, good architecture, and solving real problems
+- Reach me at: **edermorosrodero@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +52,7 @@ I'm a **second-year Web Application Development student** with a passion for bui
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patatavolc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -63,14 +63,14 @@ I'm a **second-year Web Application Development student** with a passion for bui
 
 ## 🌱 Currently Learning & 2025 Goals
 
-- 🎯 **React** - Building modern, interactive UIs
-- 🎯 **Python** - Backend (Django/Flask), Data Science & Automation
-- 🎯 **TypeScript** - Type-safe JavaScript development
-- 🎯 **Typst** - Modern markup for document creation
+- **React** - Building modern, interactive UIs
+- **Python** - Backend (Django/Flask), Data Science & Automation
+- **TypeScript** - Type-safe JavaScript development
+- **Typst** - Modern markup for document creation
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -78,16 +78,16 @@ I'm a **second-year Web Application Development student** with a passion for bui
 [![Workshop System](https://github-readme-stats.vercel.app/api/pin/?username=patatavolc&repo=tfg-peluqueria&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/patatavolc/tfg-peluqueria)
 </div>
 
-### 💼 [Hair Salon Management Platform](https://github.com/patatavolc/tfg-peluqueria) - Final Degree Project
+### [Hair Salon Management Platform](https://github.com/patatavolc/tfg-peluqueria) - Final Degree Project
 Full-stack platform with appointment booking, client management, service catalog, and admin dashboard for invoices and analytics. Based on real business requirements. | **React · Node.js · Express · PostgreSQL** | 🚧 In Progress
 
-### 🛠️ [Workshop Management System](https://github.com/patatavolc/SistemaTaller)
+### [Workshop Management System](https://github.com/patatavolc/SistemaTaller)
 Enterprise automotive management system handling clients, vehicles, appointments, inventory, employees, and service history with complete CRUD operations. | **Java · MySQL · MVC Architecture** | ✅ Complete
 
-### 🖥️ [Restaurant POS System](https://github.com/javiifu/Hosteler-a)
+### [Restaurant POS System](https://github.com/javiifu/Hosteler-a)
 Point of sale system for restaurant operations with table management, digital menu, billing, and order tracking. | **Java · MySQL** | Team project - **Frontend Lead (75% contribution)** | ✅ Complete
 
-### 🃏 [Klondike Solitaire](https://github.com/patatavolc/Solitario)
+### [Klondike Solitaire](https://github.com/patatavolc/Solitario)
 Console-based card game implementing full Klondike rules, showcasing OOP principles and algorithm design. | **Java** | Academic project
 
 ---
@@ -95,14 +95,14 @@ Console-based card game implementing full Klondike rules, showcasing OOP princip
 ## ⚙️ Development Environment
 
 ```bash
-💻 OS: Arch Linux (btw) - Rolling release, customized setup
-📝 Editor: VS Code with extensions for Java, JavaScript, React
-🐚 Terminal: Always ready for action
-🎨 Workflow: Git-based version control, Docker for containerization
+OS: Arch Linux (btw) - Rolling release, customized setup
+Editor: VS Code with extensions for Java, JavaScript, React
+Terminal: Always ready for action
+Workflow: Git-based version control, Docker for containerization
 ```
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
